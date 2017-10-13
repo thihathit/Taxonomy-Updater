@@ -1,0 +1,7 @@
+name = Taxonomy Updater
+description = Programatically update vocabularies using 'taxonomy_term_save()'
+core = 7.x
+package = Administration
+permission = admin/people/permissions#module-taxonomy_updater
+
+files[] = taxonomy_updater.module
